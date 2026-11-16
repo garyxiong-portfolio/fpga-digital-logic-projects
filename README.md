@@ -1,6 +1,6 @@
 # FPGA Digital Logic Projects
 
-VHDL and schematic projects developed by Gary Xiong for ECE 124 at the University of Waterloo. The projects target the LogicalStep board's Intel MAX 10 FPGA and explore combinational logic, arithmetic, control systems, and finite-state machines.
+VHDL and schematic projects by Gary Xiong for the Intel MAX 10 FPGA on the LogicalStep board. The designs implement combinational logic, arithmetic, control systems, and finite-state machines.
 
 ## Featured project: Traffic light controller
 
@@ -24,8 +24,8 @@ A 16-state controller models a two-direction intersection. Push-button filtering
 3. Review the saved pin assignments for the LogicalStep board and compile the design.
 4. Connect the board and use Quartus Programmer to load the generated programming file. The `.vwf` files provide saved waveform inputs for simulation.
 
-Source files, schematics, pin assignments, and project settings are included. Build databases, programming outputs, backup files, and simulation caches are excluded. Stale project references to absent generated files were removed from this publication copy; the logic source is unchanged. No fresh Quartus compilation was performed for this repository setup.
+Source files, schematics, pin assignments, and project settings are included. Build databases, programming outputs, backup files, and simulation caches are excluded. Stale project references to absent generated files were removed from this publication copy; the logic source is unchanged. No fresh Quartus compilation was performed for this documentation update.
 
 ## Attribution
 
-These are coursework implementations using course-provided project scaffolding and board support. Existing third-party notices are retained. No blanket license is applied to course or vendor materials.
+The designs use supplied project scaffolding and board support. Existing third-party notices are retained. Supplied components retain their original terms; no blanket license is applied to this repository.
